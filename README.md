@@ -30,6 +30,9 @@ O usuário terá a opção de ajustar o valor e as escolhas de moedas para efetu
 ![](img/img2.png)
 
 * Aqui, o código pega o valor monetário que o usuário inseriu e o converte para um número decimal usando ``parseFloat``.
+
+* ``Parse Float``: A função parseFloat analisa um argumento (convertendo-o para uma string primeiro caso necessário) e retorna um número de ponto flutuante (número decimal).
+
 * ``daMoeda`` e ``paraMoeda`` representam as moedas de origem e destino, respectivamente, que o usuário selecionou.
 
 **3. Definir Taxas de Câmbio Fixas:**
@@ -57,11 +60,18 @@ O usuário terá a opção de ajustar o valor e as escolhas de moedas para efetu
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   
  
 </div>
 
 <br>
  
+## Referência
+
+* [ChatGPT](https://chatgpt.com/)
+* [Mdn Web Docs](https://developer.mozilla.org/pt-BR/)
+
+
 ##
  
 ## **Quer me conhecer?**
