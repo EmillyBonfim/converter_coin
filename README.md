@@ -4,13 +4,17 @@ Esse projeto consiste em um conversor de moedas, de ínicio nos temos a convers�
 O usuário pode incerir o valor que deseja converter, ele seleciona para que tipo de moeda ele deseja converter e em seguida o programa retorna o valor já convertido.
 
 ## **Funcionalidades** ⚙️
-**Entrada de Valor:** O usuário terá a opção de inserir o valor que deseja converter.
+**Entrada de Valor:** 
+O usuário terá a opção de inserir o valor que deseja converter.
 <br>
-**Seleção de Moedas:** O sistema permitirá que o usuário escolha a moeda de origem e a moeda de destino a partir de uma lista de opções, como Dólar, Euro e Real.
+**Seleção de Moedas:** 
+O sistema permitirá que o usuário escolha a moeda de origem e a moeda de destino a partir de uma lista de opções, como Dólar, Euro e Real.
 <br>
-**Conversão:** O sistema fará a conversão usando uma taxa de câmbio fixa (definida previamente no código) e mostrará o valor convertido na moeda de destino.
+**Conversão:**
+ O sistema fará a conversão usando uma taxa de câmbio fixa (definida previamente no código) e mostrará o valor convertido na moeda de destino.
 <br>
-**Reset:** O usuário terá a opção de ajustar o valor e as escolhas de moedas para efetuar uma nova conversão.
+**Reset:**
+O usuário terá a opção de ajustar o valor e as escolhas de moedas para efetuar uma nova conversão.
 
 
 ## **Explicação de código JavaScript**
